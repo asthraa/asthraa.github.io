@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hari Yerramsetty</title>
-    <link>https://asthraa.github.io/</link>
+    <link>http://asthraa.dev/</link>
     <description>Recent content on Hari Yerramsetty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://asthraa.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://asthraa.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>https://asthraa.github.io/about/</link>
+      <link>http://asthraa.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://asthraa.github.io/about/</guid>
+      <guid>http://asthraa.dev/about/</guid>
       <description>I&amp;rsquo;m a software engineer who enjoys mostly working on backend &amp;amp; infrastructure. I really believe that software engineering is an art of problem solving. So I am not confined to one language or framework. Throughout my career, I have worked on multiple projects in Ruby/Rails, Python/Flask, PHP, Visual Basic. One thing I have realised by being a sofware engineer is that learning is a journey. I always experiment with new techonologies &amp;amp; frameworks by building some mini projects.</description>
     </item>
     
